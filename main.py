@@ -1,5 +1,5 @@
 myage = 45
-myage = 18
+myage = 54
 print(myage)
 if myage>18:
     print("Du bist erwachsen.")
